@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Minecraft: Bedrock Edition",
+    "Subtitle": "Bedrock",
+    "Path": "minecraft:",
+    "Args": "",
+    "Description": "Oyunu bedava almak istiyorsanız İG:oguzkaan_ozturk22",
+    "Color": "#3C8527"
+  },
+  {
+    "Name": "Minecraft:Java Edition",
+    "Subtitle": "Java",
+    "Path": "C:\\Windows\\System32\\notepad.exe",
+    "Args": "",
+    "Description": "Bu girişi kendi oyununun exe yoluyla değiştir.",
+    "Color": "#2F6DB5"
+  }
+]
